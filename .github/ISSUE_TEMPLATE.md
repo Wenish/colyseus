@@ -3,7 +3,7 @@ Looking for help? Post on the forum instead: http://discuss.colyseus.io
 -->
 
 Your issue may already be reported!
-Please search on the [issue tracker](../) before creating one.
+Please search on the [issue tracker](../issues) before creating one.
 
 ## Steps to Reproduce (for bugs)
 <!--- Provide a link to a live example, or an unambiguous set of steps to -->
